@@ -1,10 +1,12 @@
                   
                   
                   
-                  view en codepen :   (http://www.codepen.io/SoftwareRVG/pen/NNYJmv)
-                                       
-                                       http://codepen.io/SoftwareRVG/pen/NNYJmv
-                                       
+                  view en codepen :   
+                  
+                   DEBUG MODE IN CODEPEN 
+**<a href="http://codepen.io/SoftwareRVG/pen/NNYJmv ">http://codepen.io/SoftwareRVG/pen/NNYJmv </a>**
+
+
 # advanced_animation_designs_by_SoftwareRVG.html
 CSS DEVELOPMENT by SOFTWARE RVG
 <!DOCTYPE html>
