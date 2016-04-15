@@ -4,7 +4,7 @@
                   view en codepen :   
                   
                    DEBUG MODE IN CODEPEN 
-**<a href="http://codepen.io/SoftwareRVG/pen/NNYJmv ">http://codepen.io/SoftwareRVG/pen/NNYJmv </a>**
+**<a href="http://codepen.io/SoftwareRVG/pen/KzoGXp ">http://codepen.io/SoftwareRVG/pen/KzoGXp</a>**
 
 
 # advanced_animation_designs_by_SoftwareRVG.html
